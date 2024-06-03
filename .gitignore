@@ -1,3 +1,4 @@
 faiss_index_pla/
 __pycache__/
 data/
+.env
